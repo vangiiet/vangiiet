@@ -15,4 +15,4 @@
 
 [twitter]: 
 [instagram]: 
-[linkedin]: 
+[linkedin]: https://www.linkedin.com/in/evangeline-joy-t-9228a9259/
